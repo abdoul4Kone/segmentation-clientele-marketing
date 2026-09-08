@@ -71,7 +71,7 @@ Les valeurs manquantes de revenu ont été **supprimées** plutôt qu'imputées.
 ## Reproduire l'analyse
 
 ```bash
-git clone https://github.com/<TON-PSEUDO>/customer-segmentation-clustering.git
+git clone https://github.com/abdoul4Kone/customer-segmentation-clustering.git
 cd customer-segmentation-clustering
 pip install -r requirements.txt
 jupyter notebook customer_segmentation.ipynb
