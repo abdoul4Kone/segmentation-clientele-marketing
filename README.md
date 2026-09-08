@@ -101,5 +101,5 @@ N'GUESSAN Kouamé Kan Armand Loïc · SAWADOGO Wend-yam Albert · CHEFOUET CHETS
 
 > Les tableaux de bord et analyses de ce dépôt sont réalisés à des fins pédagogiques et de démonstration.
 
-**Abdoulaye KONE** — Statisticien, diplômé de l'ENSEA
+**Abdoulaye KONE** — Statisticien, l'Ecole Nationale Supérieure de Statistique et Economie Appliquée (ENSEA d'Abidjan)
 [LinkedIn](https://linkedin.com/in/abdoulaye-kone)
