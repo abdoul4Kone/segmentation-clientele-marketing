@@ -5,3 +5,4 @@ matplotlib>=3.8
 seaborn>=0.13
 missingno>=0.5
 jupyter
+plotly>=6,<7
