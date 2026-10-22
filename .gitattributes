@@ -1,0 +1,7 @@
+# Garder le texte en LF dans le dépôt et dans les copies de travail, y compris sous Windows.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.pptx binary
+# Préserver les octets de la source publique, avec ses fins de ligne d’origine.
+data/*.csv -text
